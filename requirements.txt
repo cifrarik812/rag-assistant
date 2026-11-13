@@ -1,0 +1,6 @@
+chromadb
+fastembed
+tokenizers
+numpy
+python-dotenv
+requests
